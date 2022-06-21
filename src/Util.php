@@ -15,12 +15,7 @@ class Util
      */
     public static function getLocalIp()
     {
-        $localIp = getHostByName(php_uname('n'));
-        if(strlen($localIp) === 0){
-            $localIp = getHostByName(getHostName());
-        }
-
-        return $localIp;
+        return getHostByName(getHostName());
     }
 
 
