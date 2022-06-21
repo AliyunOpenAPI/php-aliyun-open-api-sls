@@ -121,7 +121,7 @@ If you discover any security related issues, please email lokielse@gmail.com ins
 
 ## Credits
 
-- [goodjun][link-author]
+- [Lokielse][link-author]
 - [All Contributors][link-contributors]
 
 ## License
