@@ -1,16 +1,9 @@
 {
     "name": "ericivan/aliyun-open-api-sls",
     "description": "The SLS SDK for Aliyun OpenAPI",
-    "keywosls": [
-        "aliyun",
-        "sls",
-        "php",
-        "sdk",
-        "logs"
-    ],
-    "version": "1.0.0",
-    "homepage": "https://github.com/lokielse/aliyun-open-api-sls",
+    "version": "1.0.1",
     "license": "MIT",
+    "type":"library",
     "authors": [
         {
             "name": "lokielse",
