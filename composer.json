@@ -8,6 +8,7 @@
         "sdk",
         "logs"
     ],
+    "version": "1.0.0",
     "homepage": "https://github.com/lokielse/aliyun-open-api-sls",
     "license": "MIT",
     "authors": [
