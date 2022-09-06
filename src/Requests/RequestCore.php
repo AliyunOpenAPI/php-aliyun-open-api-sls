@@ -655,7 +655,6 @@ class RequestCore
      */
     public function send_request($parse = false)
     {
-        set_time_limit(0);
 
         $curl_handle    = $this->prep_request();
         $this->response = curl_exec($curl_handle);
