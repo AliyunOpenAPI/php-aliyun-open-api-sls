@@ -1,7 +1,7 @@
 {
     "name": "ericivan/aliyun-open-api-sls",
     "description": "The SLS SDK for Aliyun OpenAPI",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "license": "MIT",
     "type":"library",
     "authors": [
